@@ -33,4 +33,7 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Object Include="hand.obj" />
+  </ItemGroup>
 </Project>
